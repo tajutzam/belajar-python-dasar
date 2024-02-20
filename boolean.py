@@ -1,0 +1,3 @@
+menikah = False
+
+jomblo = True

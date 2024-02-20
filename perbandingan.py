@@ -1,0 +1,1 @@
+# sama seperti bahasa lain
